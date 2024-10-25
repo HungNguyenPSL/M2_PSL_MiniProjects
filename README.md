@@ -9,6 +9,8 @@ These mini projects are implemented and designed to run directly through [Google
 - MNIST
 - Boston Housing Price Prediction
 - CIFAR10
+- Other Upcoming Projects
+
 
 ## Getting Started
 
