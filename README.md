@@ -19,6 +19,9 @@ To run the projects in this repository:
 
 - Google account (to use Google Colab)
 - Basic knowledge of Python and machine learning concepts
+## Contributors
+
+- [@HungNguyen](https://github.com/HungNguyenPSL)
 
 ## License
 
