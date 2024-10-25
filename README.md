@@ -7,6 +7,7 @@ These mini projects are implemented and designed to run directly through [Google
 ## Contents
 
 - MNIST
+- Boston Housing Price Prediction
 
 ## Getting Started
 
