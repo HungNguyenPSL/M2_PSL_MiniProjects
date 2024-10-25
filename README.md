@@ -20,11 +20,6 @@ To run the projects in this repository:
 - Google account (to use Google Colab)
 - Basic knowledge of Python and machine learning concepts
 
-## Acknowledgements
-
-- [PSL University](https://psl.eu/en) for providing a supportive learning environment.
-- All contributors and resources that helped in the development of these mini projects.
-
 ## License
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
